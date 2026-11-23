@@ -1,0 +1,65 @@
+AI CLIPPER - LICENÇA DE USO DE SOFTWARE (EULA)
+Versão 1.0 - 23/11/2026
+
+Leia com atenção. Ao instalar ou usar o AI Clipper, você concorda com estes termos. Se não concordar, não instale.
+
+1. QUEM É QUEM
+"Software" é o AI Clipper: o programa, o site local, os scripts, o instalador, as atualizações e a documentação que
+acompanham. "Titular" é o autor e detentor de todos os direitos do Software (contato: contatogabrielvalverde@hotmail.com).
+"Você" é a pessoa que instala e usa o Software.
+
+2. O QUE VOCÊ PODE FAZER
+O Titular concede a você uma licença pessoal, gratuita, não exclusiva, intransferível e revogável para instalar e usar o
+Software nos seus próprios computadores, para criar, revisar e publicar clipes do conteúdo que você tem direito de usar.
+
+3. O QUE VOCÊ NÃO PODE FAZER
+Sem autorização por escrito do Titular, você não pode:
+a) copiar, distribuir, vender, alugar, sublicenciar ou disponibilizar o Software (ou partes dele) a terceiros;
+b) modificar, adaptar, traduzir ou criar obras derivadas do Software;
+c) descompilar, desmontar ou fazer engenharia reversa do Software, salvo nos casos expressamente permitidos pela lei
+   brasileira (Lei 9.609/1998, art. 6º);
+d) remover ou alterar avisos de direitos autorais, desta licença ou de terceiros;
+e) usar o Software para violar direitos de terceiros ou as regras das plataformas (YouTube, TikTok, Twitch e outras).
+O Software é protegido pela Lei 9.609/1998 (Lei do Software) e pela Lei 9.610/1998 (direitos autorais). Todos os direitos
+não concedidos aqui pertencem ao Titular.
+
+4. CONTEÚDO DE TERCEIROS E SUA RESPONSABILIDADE
+O Software ajuda a cortar e publicar vídeos, mas não decide se você pode usá-los. Você é o único responsável por ter a
+autorização dos criadores e dos titulares do conteúdo, por respeitar direitos autorais (inclusive músicas) e direitos de
+imagem, e por seguir as regras de cada plataforma. A detecção de música protegida e os avisos do Software são ajudas e não
+garantem que um clipe esteja livre de reclamações.
+
+5. SEUS DADOS (LGPD)
+O Software roda inteiramente no seu computador. O Titular não recebe, não coleta e não armazena os seus vídeos, contas,
+chaves, criadores, decisões ou qualquer dado pessoal, e o Software não envia telemetria. A internet é usada apenas para:
+baixar o instalador, os programas e os modelos na instalação; verificar e baixar atualizações no repositório público de
+downloads (só o número da versão é consultado); e falar com as plataformas e serviços que você mesmo conectar (com as suas
+próprias chaves). Você é o controlador dos dados que tratar com o Software, inclusive dos dados de criadores que cadastrar.
+
+6. COMPONENTES DE TERCEIROS
+O Software usa e baixa componentes de terceiros (por exemplo Python, FFmpeg, Ollama, modelos de IA, bibliotecas de código
+aberto), cada um com a sua própria licença. Esses componentes não fazem parte desta licença; veja THIRD-PARTY-NOTICES.txt.
+
+7. ATUALIZAÇÕES
+O Software pode procurar e instalar versões novas, sempre assinadas digitalmente pelo Titular, com backup antes e volta
+automática se a versão nova não abrir. Você pode desligar isso em Configurar. Esta licença vale também para as atualizações.
+
+8. SEM GARANTIA
+O Software é fornecido "no estado em que se encontra", sem garantia de funcionamento ininterrupto, de resultado ou de
+adequação a uma finalidade específica, na extensão permitida pela lei.
+
+9. LIMITAÇÃO DE RESPONSABILIDADE
+Na extensão permitida pela lei, o Titular não responde por perdas de dados, lucros cessantes, bloqueios ou reclamações em
+plataformas, ou danos indiretos decorrentes do uso do Software. Mantenha os backups que o Software oferece.
+
+10. FIM DA LICENÇA
+A licença termina automaticamente se você descumprir estes termos. Nesse caso, você deve desinstalar o Software.
+
+11. LEI E FORO
+Esta licença é regida pelas leis do Brasil. Fica eleito o foro do domicílio do consumidor, quando a lei assim determinar.
+
+---
+English summary (the Portuguese text above prevails): personal, free, non-transferable license to install and use AI Clipper
+on your own computers. No copying, redistribution, modification or reverse engineering. You are responsible for having the
+rights to the content you clip and publish. Everything runs locally; no data is sent to the author. Provided "as is",
+without warranty. Governed by the laws of Brazil.

@@ -1,0 +1,26 @@
+AI CLIPPER - AVISOS DE COMPONENTES DE TERCEIROS
+
+O AI Clipper é software proprietário (veja LICENSE.txt). Ele usa os componentes abaixo, que continuam sob as licenças
+dos seus autores. Nenhum deles é modificado pelo AI Clipper.
+
+1) Incluídos no pacote (site já compilado em frontend\dist)
+- React e React DOM - licença MIT - Copyright (c) Meta Platforms, Inc. and affiliates.
+- Lucide (lucide-react) - licença ISC - Copyright (c) Lucide Contributors.
+- Tailwind CSS (estilos gerados) - licença MIT - Copyright (c) Tailwind Labs, Inc.
+O texto das licenças MIT e ISC permite uso, cópia e distribuição desde que este aviso seja mantido.
+
+2) Baixados durante a instalação, direto das fontes oficiais (não são distribuídos pelo AI Clipper)
+- uv (Astral) - MIT/Apache-2.0 - gerencia o Python.
+- Python 3.12 - Python Software Foundation License.
+- FFmpeg (compilação de gyan.dev) - GPL/LGPL - processamento de vídeo.
+- Ollama - MIT - servidor local de IA.
+- Modelos Qwen (Alibaba) - Apache-2.0 - IA de texto e imagem.
+- Faster-Whisper / modelos Whisper - MIT - transcrição.
+- Demucs (Meta) - MIT - separação de voz e música.
+- PANNs (Kong et al.) - MIT - detecção de música.
+- Bibliotecas Python listadas em backend\requirements.lock.txt (FastAPI, Uvicorn, SQLAlchemy, PyTorch, yt-dlp,
+  Streamlink, shazamio, httpx, google-api-python-client, entre outras), cada uma com a sua licença, instaladas do PyPI.
+
+3) Serviços usados só se você conectar, com as suas próprias contas e chaves
+YouTube Data API, Google Drive API, TikTok for Developers, Twitch API, Telegram Bot API, X API, Google Notícias (RSS).
+O uso de cada serviço segue os termos do respectivo provedor.
