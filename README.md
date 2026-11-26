@@ -1,4 +1,4 @@
-﻿![AI Clipper](images/banner.png)
+![AI Clipper](images/banner.png)
 
 # AI Clipper
 
@@ -17,18 +17,27 @@
 
 ## Baixar e instalar
 
-**[⬇ Baixar a última versão](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)** (arquivo `AI-Clipper-Setup-X.Y.Z.exe`)
+**[⬇ Baixar a última versão](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)**
 
-1. **Instalador (mais fácil):** abra o `.exe` e siga as telas; cada uma explica a escolha. Ele detecta a sua máquina e recomenda a IA certa. Se o Windows avisar "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo** (o instalador ainda não tem o certificado pago do Windows).
-2. **Com o Claude ou outra IA de código:** depois de instalar, abra a pasta do AI Clipper na IA e peça para ela ler o `GUIA-PARA-IA.md`.
-3. **Manual:** baixe o `.zip` da Release, extraia e dê dois cliques em `Instalar AI Clipper.bat`.
+Na página que abrir, em **Assets**, baixe **só o arquivo `AI-Clipper-Setup-X.Y.Z.exe`**, abra e siga as telas. Mais nada.
+
+- Cada tela explica a escolha. O instalador detecta a sua máquina e recomenda a IA certa.
+- Se o Windows avisar "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo** (o instalador ainda não tem o certificado pago do Windows).
+- Os outros arquivos da página não são para baixar: o `.zip` e o `latest.json` são usados pelas atualizações automáticas, e os "Source code" o GitHub cria sozinho em toda Release.
+
+Opcional: depois de instalar, dá para abrir a pasta do AI Clipper no Claude ou em outra IA de código e pedir para ela ler o `GUIA-PARA-IA.md`, para ajudar na configuração.
 
 **Requisitos:** Windows 10/11 64 bits. Placa NVIDIA recomendada (funciona sem, mais devagar). 20 a 60 GB livres em qualquer disco, conforme o modelo de IA, mais espaço para os vídeos.
 
-## Atualizações
+## Atualizações (automáticas)
 
-Ao ligar, o AI Clipper confere se há versão nova e já abre atualizado, com backup antes e volta automática se algo falhar. Com ele aberto, o sininho avisa. Cada versão é verificada por assinatura digital antes de ser instalada. As novidades ficam na tela **Sobre**.
+Você instala uma vez e não precisa baixar mais nada. Quando sai uma versão nova, ela chega sozinha:
 
+1. Ao ligar, e a cada 6 horas com ele aberto, o AI Clipper confere aqui se há versão nova. Só precisa de internet: **não precisa de conta no GitHub** nem de nenhum programa a mais.
+2. Se houver, ele baixa o pacote e confere a assinatura digital (só aceita versões publicadas pelo autor). Com ele aberto, o sininho avisa.
+3. Na próxima vez que você ligar o AI Clipper (ou na hora, em **Sobre → Atualizar agora**), ele já abre na versão nova. Faz backup antes e, se algo falhar, volta sozinho para a versão anterior. Seus vídeos, dados, chaves e configurações não são tocados.
+
+As novidades de cada versão ficam na tela **Sobre**. A atualização automática pode ser desligada em Configurar → Sistema.
 ## Privacidade e licença
 
 Tudo roda no seu computador; o autor não recebe nenhum dado seu. Uso pessoal gratuito; não é permitido copiar, redistribuir, modificar ou fazer engenharia reversa: veja a [licença de uso](LICENSE.txt). Você é responsável por ter autorização para o conteúdo que corta e publica. Componentes de terceiros: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
@@ -39,8 +48,8 @@ Este repositório só tem os arquivos de instalação; o código-fonte é privad
 
 ### English
 
-AI Clipper cuts live streams and videos into vertical clips with AI, entirely on your computer. You review and approve; it publishes to YouTube and TikTok. **[Download the latest version](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)**, run the installer and follow the screens (the site is available in English). Updates install automatically on start, verified by digital signature. Personal-use license, no redistribution or modification: see [LICENSE.txt](LICENSE.txt).
+AI Clipper cuts live streams and videos into vertical clips with AI, entirely on your computer. You review and approve; it publishes to YouTube and TikTok. **[Download the latest version](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)**: under Assets, download only `AI-Clipper-Setup-X.Y.Z.exe`, run it and follow the screens; the other files are for automatic updates (the site is available in English). Install once: new versions arrive and install automatically on start, verified by digital signature (no GitHub account needed). Personal-use license, no redistribution or modification: see [LICENSE.txt](LICENSE.txt).
 
 ### Español
 
-AI Clipper corta directos y vídeos en clips verticales con IA, todo en tu ordenador. Tú revisas y apruebas; publica en YouTube y TikTok. **[Descarga la última versión](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)**, abre el instalador y sigue las pantallas (el sitio está en español). Las actualizaciones se instalan solas al iniciar, verificadas por firma digital. Licencia de uso personal, sin redistribución ni modificación: mira [LICENSE.txt](LICENSE.txt).
+AI Clipper corta directos y vídeos en clips verticales con IA, todo en tu ordenador. Tú revisas y apruebas; publica en YouTube y TikTok. **[Descarga la última versión](https://github.com/Gabriel-Bastiani/ai-clipper-download/releases/latest)**: en Assets, descarga solo `AI-Clipper-Setup-X.Y.Z.exe`, ábrelo y sigue las pantallas; los otros archivos son para las actualizaciones automáticas (el sitio está en español). Instalas una vez: las versiones nuevas llegan y se instalan solas al iniciar, verificadas por firma digital (sin cuenta de GitHub). Licencia de uso personal, sin redistribución ni modificación: mira [LICENSE.txt](LICENSE.txt).
